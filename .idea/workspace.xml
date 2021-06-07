@@ -20,6 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="013a3491-fc63-46f6-9424-e483cc85f106" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -31,6 +32,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1sOtA9QkHdUJ1xY7O8TmtGpZxB1" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -83,7 +85,9 @@
       <option name="presentableId" value="Default" />
       <updated>1620755322972</updated>
       <workItem from="1620755338486" duration="1273000" />
-      <workItem from="1622124899299" duration="234000" />
+      <workItem from="1622124899299" duration="647000" />
+      <workItem from="1623062032834" duration="786000" />
+      <workItem from="1623080822302" duration="737000" />
     </task>
     <servers />
   </component>
@@ -100,5 +104,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
